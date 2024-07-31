@@ -1,0 +1,6 @@
+I have created a visualization with the Covid data I have explored using the SQL .
+The tables generated using sql were saved in excel after handling some missing values and removing NULL values.
+The tables will also be uploaded according the sheets in the Tableau dashboard .
+
+Here is the link for the tableau dashboard: https://public.tableau.com/app/profile/sai.pooja.sanku/viz/CovidDataAnlysis/Dashboard1#1
+
